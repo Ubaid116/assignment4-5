@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="puff-in-center bg-custom min-h-screen flex flex-col">
+      <body className="fade-in bg-custom min-h-screen flex flex-col">
         {/* Header */}
         <header className="bg-slate-800 flex items-center justify-between p-4 text-yellow-500 fixed top-0 w-full z-10">
           <div className="flex items-center">
